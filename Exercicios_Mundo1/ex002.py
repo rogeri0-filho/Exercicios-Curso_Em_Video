@@ -9,3 +9,4 @@ print('Está capitalizada? ', valor.istitle())
 print('Pode ser impresso? ', valor.isprintable())
 print('Contem espaços? ', valor.isspace())
 print('Possui letras ou números? ', valor.isalnum())
+
