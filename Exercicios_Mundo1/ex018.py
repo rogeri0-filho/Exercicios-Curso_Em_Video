@@ -7,3 +7,4 @@ for c in range(0, 4):
 
 shuffle(lista)
 print(f'A ordem de chamda é: {lista}')
+
