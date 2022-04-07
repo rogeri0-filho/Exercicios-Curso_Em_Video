@@ -5,3 +5,4 @@ saida2 = entrada * 3
 saida3 = entrada ** (1/2)
 
 print(f'Seu dobro vale: {saida1}\nSeu triplo vale: {saida2}\nSua raiz quadrada vale: {saida3}')
+
