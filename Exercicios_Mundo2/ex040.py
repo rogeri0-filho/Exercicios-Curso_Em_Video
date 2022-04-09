@@ -20,4 +20,3 @@ if s1 < s2 + s3 and s2 < s1 + s3 and s3 < s1 + s2:
 
 else:
     print('Os segmentos de reta não formam um triângulo!')
- 
