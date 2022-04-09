@@ -30,3 +30,4 @@ elif idade <= 25:
 
 else:
     print('Sua patente é: MASTER!')
+ 
