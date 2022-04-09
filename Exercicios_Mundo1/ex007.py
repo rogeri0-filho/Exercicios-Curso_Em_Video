@@ -14,3 +14,4 @@ print(f'{num} x {9} = {num*9}')
 print(f'{num} x {10} = {num*10}')
 
 print('--' * 12)
+ 
