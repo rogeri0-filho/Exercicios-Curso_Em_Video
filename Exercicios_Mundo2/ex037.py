@@ -16,3 +16,4 @@ elif idade > 18:
 elif idade < 18:
     print(f'Ainda faltam {(idade - 18) * (-1)} anos para o seu alistamento.')
     print(f'Seu alistamento será em {date.today().year + (18 - idade)}')
+ 
