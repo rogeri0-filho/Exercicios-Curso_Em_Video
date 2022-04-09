@@ -17,3 +17,4 @@ elif 5 <= media <= 6.9:
 elif media >= 7:
     print(f'Sua média é {media:.2f}!')
     print('Meus parabéns, você foi \033[1;32mAPROVADO!!!\033[m')
+   
