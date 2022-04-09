@@ -25,3 +25,4 @@ if prestação > excedente:
 else:
     print('A prestação não excede os 30% permitidos do seu salário!')
     print('Seu empréstimo foi aprovado!')
+ 
