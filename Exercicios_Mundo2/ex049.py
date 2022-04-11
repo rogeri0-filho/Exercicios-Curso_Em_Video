@@ -6,3 +6,4 @@ for c in range(p, d + r, r):
     print(f'{c}')
 
 print('ACABOU!')
+ 
