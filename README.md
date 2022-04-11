@@ -1,2 +1,2 @@
 # Exercicios_CursoEmVideo
-Resoluções dos exercicios dos modulos 1, 2, e 3, do Curso de Python do Prof. Gustavo Guanabara.
+Resolutions of the exercises of worlds 1, 2, and 3, from the Python Course by Professor Gustavo Guanabara.
