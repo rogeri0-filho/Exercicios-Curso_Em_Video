@@ -11,3 +11,4 @@ while n != 0:
     cont = início - cont #contador recebe o início da sequência(0) - ele mesmo(sem isso apenas uma sequências de 1 são printados de acordo com o valor do input do usuário)
     n -= 1 #input do termo recebe ele mesmo menos 1(sem isso o codigo buga totalmente)
     print(cont, end=' ')
+ 
