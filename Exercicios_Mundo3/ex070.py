@@ -1,4 +1,4 @@
-tulpla = ('zero', 'um', 'dois', 'tres', 'quatro', 'cinco', 'seis', 'sete', 'oito',
+tupla = ('zero', 'um', 'dois', 'tres', 'quatro', 'cinco', 'seis', 'sete', 'oito',
          'nove', 'dez', 'onze', 'doze', 'treze', 'quatorze', 'quinze',
          'dezesseis', 'dezessete', 'dezoito', 'dezenove', 'vinte')
 
@@ -8,4 +8,4 @@ while True:
         break
     print('Valor inválido, tente novamente. ', end='')
 
-print(f'Você digitou o número {tulpla[n]}.')
+print(f'Você digitou o número {tupla[n]}.')
