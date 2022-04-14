@@ -13,7 +13,8 @@ for contador in range(0, 5):
             if entrada <= lista[posição]:
                 lista.insert(posição, entrada)
                 break
-            
+
             posição += 1
+            
 print('--' * 30)
 print(f'Os valores digitados foram: {lista}!')
