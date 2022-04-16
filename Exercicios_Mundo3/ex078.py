@@ -18,3 +18,4 @@ for contador in range(0, 5):
             
 print('--' * 30)
 print(f'Os valores digitados foram: {lista}!')
+ 
