@@ -19,3 +19,4 @@ print(f'A lista completa de números é: {lista}!')
 print(f'A lista de números pares é: {lpares}!')
 print(f'A lista de números impares é: {limpares}!')
 print('-~-' * 30)
+ 
