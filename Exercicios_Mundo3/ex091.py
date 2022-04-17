@@ -24,6 +24,3 @@ print(f'O jogador {jogos["Nome"]} jogou {totalp} partidas!')
 for k, v in enumerate(jogos['Gols p/ Partida']):
     print(f'    - Na partida {k+1}, fez {v} gols!')
 print(f'Foi um total de {sum(partidas)}!')
-
-
-
