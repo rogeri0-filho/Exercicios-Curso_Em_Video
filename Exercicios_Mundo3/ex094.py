@@ -7,6 +7,3 @@ altura = float(input('Digite a largura: m²'))
 largura = float(input('Digite o comprimento: m²'))
 
 area(altura, largura)
-
-
-
