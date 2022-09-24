@@ -7,7 +7,7 @@ def metade(preço):
     resposta = preço / 2
     return resposta
 
-def aumento(preço, taxa):
+def acrescimo(preço, taxa):
     resposta = preço + (preço * (taxa/100))
     return resposta
     
