@@ -15,7 +15,7 @@ Este repositório contém os exercícios do Curso em Vídeo, separados por seç�
 Para executar os exercícios, siga as instruções abaixo:
 
 1. Clone o repositório: `git clone https://github.com/rogeri0-filho/Exercicios-Curso_Em_Video.git`
-2. Navegue para a seção desejada: `cd secao1_fundamentos/`
+2. Navegue para a seção desejada: `cd mundoX`
 3. Execute o arquivo correspondente ao exercício: `python exercicio1.py`
 
 ## Contribuição
