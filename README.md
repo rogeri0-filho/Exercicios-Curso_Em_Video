@@ -1,6 +1,6 @@
 # Exercícios Curso em Vídeo
 
-Este repositório contém as minahs resoluções dos exercícios do Curso em Vídeo do Prof. Gustavo Guanabara, separados por seções.
+Este repositório contém as minhas resoluções dos exercícios do Curso em Vídeo do Prof. Gustavo Guanabara, separados por seções.
 
 ![Concluido](http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=GREEN&style=for-the-badge)
 
